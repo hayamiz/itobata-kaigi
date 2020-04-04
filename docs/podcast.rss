@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>イトバタ会議</title>
+        <description>編み物のお供に</description>
+        <media:thumbnail url="https://itobata.s3.amazonaws.com/logo240.png" />
+        <media:keywords>knit,knitting,crochet,yarn,handcraft,needlework,fiberart</media:keywords>
+        <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+        <itunes:author>ボクラノアミモノ</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://itobata.s3.amazonaws.com/logo1200.png" />
+        <itunes:keywords>knit,knitting,crochet,yarn,handcraft,needlework,fiberart</itunes:keywords>
+        <itunes:subtitle>編み物のお供に</itunes:subtitle>
+        <itunes:summary>編み物のお供に</itunes:summary>
+        <itunes:category text="Crafts"/>
+        <itunes:owner>
+          <itunes:name>ボクラノアミモノ</itunes:name>
+          <itunes:email>bokuranoamimono@gmail.com</itunes:email>
+        </itunes:owner>
+        <language>ja</language>
+
+        <pubDate>Sat, 04 Apr 2020 23:47:36 +0900</pubDate>
+        <item>
+            <title>イトバタ会議 #1</title>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <enclosure url="https://itobata.s3.amazonaws.com/001.mp3" length="114682504" type="audio/mpeg" />
+            <pubDate>Sat, 04 Apr 2020 01:39:29 +0900</pubDate>
+        </item>
+
+    </channel>
+</rss>
