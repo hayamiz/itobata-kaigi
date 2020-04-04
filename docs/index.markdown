@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+ハロ
+test
+
+https://itobata.s3.amazonaws.com/podcast.rss
+
