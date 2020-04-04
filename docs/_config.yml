@@ -28,7 +28,7 @@ twitter_username: BokuranoAmimono
 github_username: hayamiz
 
 # Build settings
-theme: time-machine
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
